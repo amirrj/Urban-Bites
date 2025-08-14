@@ -1,7 +1,7 @@
 Dashboard Host Link: https://urban-bites-myft6gq9tjnzxbjx8nzdapp.streamlit.app
 
-Business: Urban Bites Café <br>
-Location: UK-based with 15 branches in London, Birmingham, and Manchester. <br>
+Business: Urban Bites Cafe <br>
+Location: UK-based with branches in London, Birmingham, and Manchester. <br>
 Industry: Hospitality (coffee shops & bakery) <br>
 Urban Bites wants a Business Intelligence dashboard to track sales, customer behaviour, and promotions so they can make better decisions on menu changes and marketing.
 
