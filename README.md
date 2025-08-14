@@ -5,9 +5,9 @@ Location: UK-based with 15 branches in London, Birmingham, and Manchester. <br>
 Industry: Hospitality (coffee shops & bakery) <br>
 Urban Bites wants a Business Intelligence dashboard to track sales, customer behaviour, and promotions so they can make better decisions on menu changes and marketing.
 
-Requirements: 
-  Monitor sales performance per store.<br>
-  See which products are selling best and worst. <br>
-  Track effectiveness of promotions. <br>
-  Analyse sales trends over time (seasonality, peak hours, weekdays vs weekends). <br>
-  Track average basket size and revenue per transaction. <br>
+Requirements: <br>
+- Monitor sales performance per store.<br>
+- See which products are selling best and worst. <br>
+- Track effectiveness of promotions. <br>
+- Analyse sales trends over time (seasonality, peak hours, weekdays vs weekends). <br>
+- Track average basket size and revenue per transaction. <br>
