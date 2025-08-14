@@ -1,5 +1,4 @@
 venv/
-*.csv
 __pycache--/
 .ipynb_checkpoints/
 .DS_Store
