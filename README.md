@@ -15,6 +15,6 @@ Requirements: <br>
 The project was built with:
 - Pycharm
 - Python
-  - Pandas
-  - Streamlit
-  - Plotly
+- Pandas
+- Streamlit
+- Plotly
