@@ -11,3 +11,10 @@ Requirements: <br>
 - Track effectiveness of promotions. <br>
 - Analyse sales trends over time (seasonality, peak hours, weekdays vs weekends). <br>
 - Track average basket size and revenue per transaction. <br>
+
+The project was built with:
+- Pycharm
+- Python
+  - Pandas
+  - Streamlit
+  - Plotly
